@@ -33,7 +33,6 @@ Together, we can forge a more inclusive and innovative future!!<br><br>
 #
 
 <h1>📙: Learning</h1>
-<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
 <style>
   .icon {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -44,6 +43,7 @@ Together, we can forge a more inclusive and innovative future!!<br><br>
   }
 </style>
 
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
   <img align="center" alt="Rita-Java"   height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" class="icon">
   <img align="center" alt="Rita-Js"     height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" class="icon">
   <img align="center" alt="Rita-Ts"     height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" class="icon">
@@ -52,5 +52,6 @@ Together, we can forge a more inclusive and innovative future!!<br><br>
   <img align="center" alt="Rita-CSS"    height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" class="icon">
   <img align="center" alt="Rita-Python" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" class="icon">
 </div>
+
 
 ##
