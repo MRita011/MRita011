@@ -1,5 +1,3 @@
-# Hi there!! 🧡
-
 <div align="center">
   <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=81b28d&center=true&vCenter=true&random=false&width=520&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
@@ -8,24 +6,25 @@
 
 <img align="center" src="header-gif.gif"></img>
 
-##
+## Hello there! 👋 I'm Maria Rita
 
-<p align="justify" style="font-size:17px; margin-left: 50px; margin-right: 50px;">
-Hello! My name is Maria Rita, and I’m 20 years old. I'm currently studying Software Engineering at the Polytechnic School of the Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS).<br><br>
-My passion for technology began in high school, where I had the opportunity to take a technical course in computer science at IFRS. It was through this experience, enriched by teaching, extension, and innovation projects, where I was a scholarship holder, that I discovered my deep connection to the field and its boundless possibilities.<br><br>
-Today, my ambition is to become a full-stack developer, fully immersing myself in the endless opportunities that technology provides. But my dream goes beyond that: in the long term, I aspire to be a catalyst for change, inspiring and supporting girls and women to pursue careers in technology. Just as the women I encountered on my journey inspired and supported me, I aim to reciprocate by doing the same for others.
-</p>
+👩‍💻 Software Engineering student at the Polytechnic School of the **Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)**;
 
-<div style="text-align: center;" align="center">
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrita011&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=a9bf93&text_color=FFF&border_radius=3&border_color=a9bf93&icon_color=a9bf93&theme=jolly" alt="GitHub stats">
+🌟 I’m the only girl scholarship holder in the **GRACE project**, a collaboration between **SOFTEX** and **HP**;
 
-  <a href="https://github.com/mrita011/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mrita011&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=a9bf93&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=a9bf93&count_private=true" alt="Most Used Languages">
-  </a>
+💻 My passion for technology ignited in high school through a technical course in computer science at IFRS, and was further enriched by teaching, extension, and innovation projects. I’m also a **Technical IT** graduate from the **Federal Institute of Rio Grande do Sul - Campus Restinga (IFRS)**;
+
+🔎 Currently, I am dedicated to becoming a _Full-Stack Developer_, eager to explore the limitless possibilities within technology;
+
+🌟 In the long term, I aim to be a catalyst for change by inspiring and supporting girls and women to pursue careers in technology, just as I have been inspired by those who came before me.
+
+## Statistics
+<div>
+<a href="https://github.com/MRita011">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRita011&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MRita011&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-#
 
 <h1>📙: Learning</h1>
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
