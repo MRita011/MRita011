@@ -16,8 +16,6 @@
 
 🔎 Currently, I am dedicated to becoming a _Full-Stack Developer_, eager to explore the limitless possibilities within technology;
 
-🌟 In the long term, I aim to be a catalyst for change by inspiring and supporting girls and women to pursue careers in technology, just as I have been inspired by those who came before me.
-
 ## Statistics
 <div>
 <a href="https://github.com/MRita011">
