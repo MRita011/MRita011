@@ -1,0 +1,58 @@
+<svg width="800" height="230" viewBox="0 0 800 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes float-a { 0%,100% { transform: translate(0,0); } 50% { transform: translate(18px,-14px); } }
+      @keyframes float-b { 0%,100% { transform: translate(0,0); } 50% { transform: translate(-16px,12px); } }
+      @keyframes float-c { 0%,100% { transform: translate(0,0); } 50% { transform: translate(10px,16px); } }
+      @keyframes twinkle { 0%,100% { opacity: 0.35; transform: scale(0.9); } 50% { opacity: 1; transform: scale(1.15); } }
+      #blob-1 { animation: float-a 9s ease-in-out infinite; }
+      #blob-2 { animation: float-b 11s ease-in-out infinite; }
+      #blob-3 { animation: float-c 8s ease-in-out infinite; }
+      #s1 { animation: twinkle 3.2s ease-in-out infinite; }
+      #s2 { animation: twinkle 4s ease-in-out infinite 0.6s; }
+      #s3 { animation: twinkle 3.6s ease-in-out infinite 1.2s; }
+      #s4 { animation: twinkle 4.4s ease-in-out infinite 0.3s; }
+      #s5 { animation: twinkle 3.8s ease-in-out infinite 1.6s; }
+      .title { font-family: 'Segoe UI', Verdana, sans-serif; font-weight: 700; }
+      .subtitle { font-family: 'Segoe UI', Verdana, sans-serif; font-weight: 400; }
+    </style>
+    <radialGradient id="gPink" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#F7D3E0" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#F7D3E0" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gLav" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#E3D3F5" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#E3D3F5" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gMint" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#CDEBE1" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#CDEBE1" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="titleFill" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D98CAE"/>
+      <stop offset="50%" stop-color="#B08AC9"/>
+      <stop offset="100%" stop-color="#7FBFA9"/>
+    </linearGradient>
+    <clipPath id="roundedCard">
+      <rect x="1" y="1" width="798" height="228" rx="26"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#roundedCard)">
+    <rect width="800" height="230" fill="#FFF9F4"/>
+    <ellipse id="blob-1" cx="120" cy="60" rx="170" ry="120" fill="url(#gPink)"/>
+    <ellipse id="blob-2" cx="670" cy="70" rx="160" ry="110" fill="url(#gLav)"/>
+    <ellipse id="blob-3" cx="400" cy="190" rx="200" ry="100" fill="url(#gMint)"/>
+
+    <circle id="s1" cx="90" cy="40" r="3" fill="#E8A0BF"/>
+    <circle id="s2" cx="710" cy="45" r="2.5" fill="#B892C1"/>
+    <circle id="s3" cx="640" cy="180" r="3" fill="#8FC4B0"/>
+    <circle id="s4" cx="150" cy="185" r="2.5" fill="#E8A0BF"/>
+    <circle id="s5" cx="400" cy="35" r="2.5" fill="#B892C1"/>
+
+    <text x="400" y="115" text-anchor="middle" class="title" font-size="52" fill="url(#titleFill)">Maria Rita</text>
+    <text x="400" y="150" text-anchor="middle" class="subtitle" font-size="18" fill="#8A7F94">Software Engineering Student  🌸</text>
+    <text x="400" y="185" text-anchor="middle" font-size="20">🌷 · 🦋 · 🍄 · ✨ · 🌙 · ✨ · 🍄 · 🦋 · 🌷</text>
+  </g>
+  <rect x="1" y="1" width="798" height="228" rx="26" fill="none" stroke="#F0DCE6" stroke-width="1.5"/>
+</svg>

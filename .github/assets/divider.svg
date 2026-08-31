@@ -1,0 +1,21 @@
+<svg width="800" height="34" viewBox="0 0 800 34" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes twinkle { 0%,100% { opacity: 0.3; transform: scale(0.85); } 50% { opacity: 1; transform: scale(1.2); } }
+      .st1 { animation: twinkle 2.8s ease-in-out infinite; }
+      .st2 { animation: twinkle 3.4s ease-in-out infinite 0.5s; }
+      .st3 { animation: twinkle 3s ease-in-out infinite 1s; }
+    </style>
+    <linearGradient id="lineFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F0DCE6" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#E8A0BF" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#B892C1" stop-opacity="0.8"/>
+      <stop offset="80%" stop-color="#8FC4B0" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#CDEBE1" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="60" y="16" width="680" height="2" rx="1" fill="url(#lineFade)"/>
+  <text x="250" y="23" text-anchor="middle" font-size="14" class="st1" fill="#E8A0BF">✩</text>
+  <text x="400" y="23" text-anchor="middle" font-size="16" class="st2" fill="#B892C1">✦</text>
+  <text x="550" y="23" text-anchor="middle" font-size="14" class="st3" fill="#8FC4B0">✩</text>
+</svg>
