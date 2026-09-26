@@ -15,8 +15,7 @@ I enjoy building practical and meaningful solutions while continuously strengthe
 <img src="./.github/assets/divider.svg" width="100%" alt="divider"/>
 </div>
 
-## 🛠️ Tech Stack
-
+# 🛠️ Tech Stack
 <div align="center">
 
 **Languages**
@@ -41,8 +40,7 @@ I enjoy building practical and meaningful solutions while continuously strengthe
 <img src="./.github/assets/divider.svg" width="100%" alt="divider"/>
 </div>
 
-## 📊 GitHub Statistics
-
+# 📊 GitHub Statistics
 <div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MRita011&show_icons=true&hide_border=true&bg_color=00000000&title_color=B892C1&icon_color=E8A0BF&text_color=8A7F94&include_all_commits=true&count_private=true" alt="Maria Rita GitHub Stats"/>
@@ -70,9 +68,6 @@ I enjoy building practical and meaningful solutions while continuously strengthe
 </a>
 
 <br><br>
-
-`code • learn • create • evolve`
-
 <br>
 
 <img src="./.github/assets/footer.svg" width="100%" alt="Footer"/>
