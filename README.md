@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./.github/assets/header.svg" width="100%" alt="Header"/>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1200&color=B892C1&center=true&vCenter=true&width=550&lines=Hello%2C+I'm+Maria+Rita+%F0%9F%91%8B;Software+Engineering+Student;Welcome+to+my+GitHub!+%E2%9C%A8" alt="Typing SVG"/>
 </a>
